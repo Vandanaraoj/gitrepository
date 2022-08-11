@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="viamaven2.TC_Tasks_008_Test"/>
+      <class name="viamaven2.TC_Tasks_009_Test"/>
+      <class name="viamaven2.TC_Tasks_007_Test"/>
+      <class name="viamaven2.TC_Tasks_006_Test"/>
+      <class name="viamaven2.TC_Tasks_010_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
