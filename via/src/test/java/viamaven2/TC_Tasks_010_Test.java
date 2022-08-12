@@ -8,5 +8,6 @@ public class TC_Tasks_010_Test extends BaseTest {
 	@Test
 	public void createTasks() {
 		driver.get("https://www.puma.com");
+		System.out.println("hi");
 	}
 }
